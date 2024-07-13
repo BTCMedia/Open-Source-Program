@@ -11,7 +11,7 @@ Open source contributors spend their time building software that benefits the wh
 2. Submit an issue to this repo and explain why you are excited to attend
 3. Over the next 30 days, we will be reviewing submissions and sending out e-tickets
 
-We will be announcing additional projects over the coming months. If you have a project you would like to see included in this program, please contact on our webiste or submit an issue to this repo.
+We will be announcing additional projects over the coming months. If you have a project you would like to see included in this program, please contact on our website or submit an issue to this repo.
 
 
 ## Bitcoin 2024 Open Source Stage
