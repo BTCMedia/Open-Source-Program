@@ -1,24 +1,32 @@
-# B24-Open-Source-Program
-Open Source Developer Program for the Bitcoin 2024
+![image](https://github.com/user-attachments/assets/3acfe3e3-1390-4989-80f6-e0622ea53c17)
 
-## Open Source Ticket Program
+# Bitcoin 2025 Expands Its Open-Source Footprint, Building on a Storied Legacy of Decentralized Innovation
 
-Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2024 is proud to offer a ticket grant program to give contributors of bitcoin open-source projects free tickets to this years conference.
+## Open Source Hub Debuts for Collaboration; Open Source Stage Returns to Host Core Developers, Lightning Engineers, and Privacy Researchers
 
-**Must have made a commit to the project prior to June 1, 2024 to be eligible**
+### Special Events Will Spotlight New Ideas, Experimental Applications, and Improvements to Security and Privacy
 
-1. Fill out the typeform application at [b.tc/conference/open-source](https://b.tc/conference/2024/opensource-ticket)
-2. Submit an issue to this repo and explain why you are excited to attend
-3. Over the next 30 days, we will be reviewing submissions and sending out e-tickets
+BTC Inc, the industry pioneer in Bitcoin news and organizer of the world’s largest Bitcoin conference, today unveiled its newly expanded Open Source Hub for Bitcoin 2025, slated for May 27–29 at the Venetian Conference Center in Las Vegas. Building on a proven track record of success, this dedicated expansion underscores the event’s unwavering commitment to fueling collaboration, exploration, and breakthrough innovation within Bitcoin’s open-source ecosystem.
 
-We will be announcing additional projects over the coming months. If you have a project you would like to see included in this program, please contact on our webiste or submit an issue to this repo.
+The Open Source Stage remains a cornerstone of the event, hosting in-depth discussions with Bitcoin Core developers, Lightning engineers, and privacy researchers. This year’s enhancements include new interactive features and dedicated spaces for collaboration, ensuring that Bitcoin 2025 continues to be a hub for advancing decentralized technology.
 
+“The conversations happening in Bitcoin’s Open Source community impact the world in ways most of us will never see, and it’s been that way for years,” said David Bailey, CEO of BTC Inc. “Bitcoin has no CEO. Satoshi’s been gone for over a decade. These are the people writing the code that will underpin the global financial revolution, and when they gather it’s like lightning in a bottle.”
 
-## Bitcoin 2024 Open Source Stage
+This newly expanded developer track underscores the pivotal role of open-source software in powering Bitcoin, enabling censorship-resistant and borderless financial tools. In addition to cutting-edge infrastructure talks on the Open Source Stage, this year’s highlights include:
+- Hackathon Awards: Innovative projects from Bitcoin++ hackathons will be celebrated live on stage.
+- BitDevs Special Event: A deep-dive technical forum for those interested in Bitcoin research, protocol development, and security.
+- Project Stations: Offering developers a chance to showcase live demos of working Bitcoin tools.
+- Chain Duel Arcade: An interactive gaming experience where participants compete to build the longest chain and win sats on the Lightning Network.
+- Nostr Lounge: A dedicated space for developers and advocates focused on decentralized, censorship-resistant communication tools.
+  
+Bitcoin 2025 is expected to attract over 30,000 attendees and feature more than 300 exhibitors and 500 speakers. 
 
-At Bitcoin 2024, we featured some of the top open-source projects in the ecosystem. This year, we're going bigger, with an entire stage dedicated to the most important projects in bitcoin.
-‍
+The event will also host its Continuing Legal Education (CLE) program, providing legal and financial professionals with critical insights into the evolving regulatory landscape surrounding Bitcoin.
 
-With a max capacity of over 2000 people, the dedicated open source conference hall will be larger than most bitcoin conferences. 
+All journalists, developers, and Bitcoin enthusiasts are invited to join the Open Source Hub and Open Source Stage for the most technical conversations in Bitcoin. 
 
-The speaker lineup will consist of open source contributors from all different types of bitcoin projects, covering a broad cross-section of the bitcoin open source community. The schedule will include breaks to allow networking, collaboration, and free-form workshops to take place.
+Free access to the Hub is exclusively for developers with proven code contributions to selected Bitcoin projects. Journalists can apply for a press pass, which includes access to open-source programming.
+
+- Interested in attending: https://tickets.b.tc/event/bitcoin-2025
+- Learn more about the Open Source Hub: https://b.tc/conference/2025/opensource
+- Learn more about Bitcoin 2025: Las Vegas: https://b.tc/conference/2025 
