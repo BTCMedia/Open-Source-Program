@@ -1,12 +1,13 @@
-![image](https://github.com/user-attachments/assets/3acfe3e3-1390-4989-80f6-e0622ea53c17)
+<img width="1920" height="2636" alt="image" src="https://github.com/user-attachments/assets/201e9564-5697-4589-9279-598f03035039" />
 
-# Bitcoin 2025 Expands Its Open-Source Footprint, Building on a Storied Legacy of Decentralized Innovation
+
+# Bitcoin 2026 Expands Its Open-Source Footprint, Building on a Storied Legacy of Decentralized Innovation
 
 ## Open Source Hub Debuts for Collaboration; Open Source Stage Returns to Host Core Developers, Lightning Engineers, and Privacy Researchers
 
 ### Special Events Will Spotlight New Ideas, Experimental Applications, and Improvements to Security and Privacy
 
-BTC Inc, the industry pioneer in Bitcoin news and organizer of the world’s largest Bitcoin conference, today unveiled its newly expanded Open Source Hub for Bitcoin 2025, slated for May 27–29 at the Venetian Conference Center in Las Vegas. Building on a proven track record of success, this dedicated expansion underscores the event’s unwavering commitment to fueling collaboration, exploration, and breakthrough innovation within Bitcoin’s open-source ecosystem.
+BTC Inc, the industry pioneer in Bitcoin news and organizer of the world’s largest Bitcoin conference, today unveiled its newly expanded Open Source Hub for Bitcoin 2026, slated for April 27–29 at the Venetian Conference Center in Las Vegas. Building on a proven track record of success, this dedicated expansion underscores the event’s unwavering commitment to fueling collaboration, exploration, and breakthrough innovation within Bitcoin’s open-source ecosystem.
 
 The Open Source Stage remains a cornerstone of the event, hosting in-depth discussions with Bitcoin Core developers, Lightning engineers, and privacy researchers. This year’s enhancements include new interactive features and dedicated spaces for collaboration, ensuring that Bitcoin 2025 continues to be a hub for advancing decentralized technology.
 
@@ -19,7 +20,7 @@ This newly expanded developer track underscores the pivotal role of open-source 
 - Chain Duel Arcade: An interactive gaming experience where participants compete to build the longest chain and win sats on the Lightning Network.
 - Nostr Lounge: A dedicated space for developers and advocates focused on decentralized, censorship-resistant communication tools.
   
-Bitcoin 2025 is expected to attract over 30,000 attendees and feature more than 300 exhibitors and 500 speakers. 
+Bitcoin 2026 is expected to attract over 30,000 attendees and feature more than 300 exhibitors and 500 speakers. 
 
 The event will also host its Continuing Legal Education (CLE) program, providing legal and financial professionals with critical insights into the evolving regulatory landscape surrounding Bitcoin.
 
@@ -27,6 +28,6 @@ All journalists, developers, and Bitcoin enthusiasts are invited to join the Ope
 
 Free access to the Hub is exclusively for developers with proven code contributions to selected Bitcoin projects. Journalists can apply for a press pass, which includes access to open-source programming.
 
-- Interested in attending: https://tickets.b.tc/event/bitcoin-2025
-- Learn more about the Open Source Hub: https://b.tc/conference/2025/opensource
-- Learn more about Bitcoin 2025: Las Vegas: https://b.tc/conference/2025 
+- Interested in attending: https://tickets.b.tc/event/bitcoin-2026
+- Learn more about the Open Source Hub: https://2026.b.tc/opensource
+- Learn more about Bitcoin 2025: Las Vegas: https://2026.b.tc/ 
